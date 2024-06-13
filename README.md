@@ -1,4 +1,4 @@
-# StudyBud-A-Collaborative-Community-Platform-using-django
+# StudyBud-A-Collaborative-Community-Platform-Using-Django
 StudyBud is a study-focused community platform similar to Discord, designed to facilitate collaborative learning and knowledge sharing.
 It allows user to join different study rooms, connect with fellow learners, and engage with a global community passionate about studying and personal growth.
 Whether you're seeking study partners, resources, or motivation, StudyBud is your companion in the journey of learning.
