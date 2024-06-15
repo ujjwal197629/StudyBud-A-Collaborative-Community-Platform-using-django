@@ -29,7 +29,7 @@ First create a virtual environment(highly recommended)and run...
 
 
 
-## Some Screenshots of This Project -
+## Some Screenshots -
 
 
 
