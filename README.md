@@ -4,7 +4,7 @@ It allows user to join different study rooms, connect with fellow learners, and 
 Whether you're seeking study partners, resources, or motivation, StudyBud is your companion in the journey of learning.
 
 
-## How To Use This Project
+## How To Use this
 
 First create a virtual environment(highly recommended)and run...
 
